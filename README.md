@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srinivassutar
 - 👀 I’m interested in learning new things..!
-- 🌱 I’m currently learning Robitics
+- 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on Hands-on Robotics.
 
 
